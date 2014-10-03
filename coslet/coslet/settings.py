@@ -59,9 +59,9 @@ WSGI_APPLICATION = 'coslet.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'mysql.connector.django',
-        'NAME': 'routee',
+        'NAME': 'coslet',
         'USER': 'root',
-        'PASSWORD': 'root',
+        'PASSWORD': 'berserkx',
         'HOST': 'localhost',
         'PORT': '3306',
     }
